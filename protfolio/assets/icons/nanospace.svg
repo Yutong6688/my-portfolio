@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Nano-Space 图标">
+  <defs>
+    <style>
+      .s{stroke:#111;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <path d="M20 46c-6 0-10-4-10-10s4-10 10-10c1 0 2 0 3 .3C25 21 29 18 34 18c8 0 14 6 14 14v1c4 1 6 4 6 8 0 5-4 9-9 9H20z" fill="#B7F5D1" class="s"/>
+  <path d="M26 44c8-2 14-8 16-16-8 2-14 8-16 16z" fill="#7EE2A8" class="s"/>
+  <path d="M29 38c3-3 7-5 11-6" fill="none" class="s"/>
+  <circle cx="27" cy="33" r="2" fill="#111"/>
+  <circle cx="36" cy="33" r="2" fill="#111"/>
+  <path d="M29 37c2 2 4 3 6 3s4-1 6-3" fill="none" class="s"/>
+</svg>
