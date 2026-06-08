@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="国家级大创 图标">
+  <defs>
+    <style>
+      .s{stroke:#111;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <circle cx="18" cy="18" r="8" fill="#FFE36E" class="s"/>
+  <path d="M18 5v6M18 25v6M5 18h6M25 18h6M9 9l4 4M23 23l4 4M27 9l-4 4M13 23l-4 4" fill="none" class="s"/>
+  <rect x="22" y="30" width="32" height="20" rx="6" fill="#BDEBFF" class="s"/>
+  <path d="M26 36h24M26 42h24M30 30l-6 20" fill="none" class="s" opacity="0.9"/>
+  <path d="M30 52h16" fill="none" class="s"/>
+</svg>

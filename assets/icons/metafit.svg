@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MetaFit 图标">
+  <defs>
+    <style>
+      .s{stroke:#111;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <rect x="14" y="20" width="36" height="34" rx="8" fill="#FFE36E" class="s"/>
+  <path d="M22 22c0-6 4-10 10-10s10 4 10 10" fill="none" class="s"/>
+  <path d="M24 35c2 4 6 6 8 6s6-2 8-6" fill="none" class="s"/>
+  <circle cx="26" cy="32" r="2" fill="#111"/>
+  <circle cx="38" cy="32" r="2" fill="#111"/>
+  <path d="M18 28h28" fill="none" class="s" opacity="0.35"/>
+</svg>
