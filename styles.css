@@ -1,5 +1,4 @@
 :root{
-  /* 参考你给的示例：绿色底 + 米白卡片 + 粗黑描边 + “纸片”阴影的卡通风格 */
   --bg: #3ca268;
   --panel: #fbf1d8;
   --panel-strong: #fff7e6;
@@ -663,11 +662,12 @@ button{ font-family: inherit; }
 }
 .img-grid-2{
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  align-items: stretch;
+  align-items: start;
 }
 .img-grid-2 .img-real{
-  height: 100%;
-  object-fit: cover;
+  width: 100%;
+  height: auto;
+  display: block;
 }
 .img-ph{
   border-radius: 14px;
@@ -687,6 +687,27 @@ button{ font-family: inherit; }
   border: 3px solid var(--border);
   box-shadow: var(--shadow-sm);
   display: block;
+}
+
+/* ===== 照片卡片（便签风格 + 曲别针） ===== */
+.photo-card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: visible;
+  padding: 9px;
+  min-height: 280px;
+}
+.photo-card .profile-photo{
+  width: 100%;
+  max-width: 260px;
+  height: auto;
+  border-radius: 12px;
+  border: 3px solid var(--border);
+  box-shadow: var(--shadow-sm);
+  display: block;
+  object-fit: contain;
 }
 
 /* 响应式 */
