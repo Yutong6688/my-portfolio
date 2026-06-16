@@ -154,8 +154,8 @@ const DETAIL_MAP = {
       </div>
       <div class="modal-section">
         <div class="img-grid img-grid-2">
-          <img class="img-real" src="./assets/metafit-1.png" alt="System interface screenshot" loading="lazy" />
-          <img class="img-real" src="./assets/metafit-2.png" alt="Project workflow" loading="lazy" />
+          <img class="img-real" src="../assets/metafit-1.png" alt="System interface screenshot" loading="lazy" />
+          <img class="img-real" src="../assets/metafit-2.png" alt="Project workflow" loading="lazy" />
         </div>
       </div>
     `,
@@ -202,8 +202,8 @@ const DETAIL_MAP = {
       </div>
       <div class="modal-section">
         <div class="img-grid img-grid-2">
-          <img class="img-real" src="./assets/nano-1.png" alt="Nano-Space scene screenshot" loading="lazy" />
-          <img class="img-real" src="./assets/nano-2.png" alt="Nano-Space interaction flow" loading="lazy" />
+          <img class="img-real" src="../assets/nano-1.png" alt="Nano-Space scene screenshot" loading="lazy" />
+          <img class="img-real" src="../assets/nano-2.png" alt="Nano-Space interaction flow" loading="lazy" />
         </div>
       </div>
     `,
@@ -250,8 +250,8 @@ const DETAIL_MAP = {
       </div>
       <div class="modal-section">
         <div class="img-grid img-grid-2">
-          <img class="img-real" src="./assets/echoes-1.png" alt="ECHOES game screenshot" loading="lazy" />
-          <img class="img-real" src="./assets/echoes-2.png" alt="ECHOES interaction flow" loading="lazy" />
+          <img class="img-real" src="../assets/echoes-1.png" alt="ECHOES game screenshot" loading="lazy" />
+          <img class="img-real" src="../assets/echoes-2.png" alt="ECHOES interaction flow" loading="lazy" />
         </div>
       </div>
     `,
@@ -298,8 +298,8 @@ const DETAIL_MAP = {
       </div>
       <div class="modal-section">
         <div class="img-grid img-grid-2">
-          <img class="img-real" src="./assets/solar-1.png" alt="Solar photocatalytic device" loading="lazy" />
-          <img class="img-real" src="./assets/solar-2.png" alt="Patent/completion certificate" loading="lazy" />
+          <img class="img-real" src="../assets/solar-1.png" alt="Solar photocatalytic device" loading="lazy" />
+          <img class="img-real" src="../assets/solar-2.png" alt="Patent/completion certificate" loading="lazy" />
         </div>
       </div>
     `,
@@ -339,8 +339,8 @@ const DETAIL_MAP = {
       </div>
       <div class="modal-section">
         <div class="img-grid img-grid-2">
-          <img class="img-real" src="./assets/sx-1.png" alt="Activity photos" loading="lazy" />
-          <img class="img-real" src="./assets/sx-2.png" alt="Research/field visits" loading="lazy" />
+          <img class="img-real" src="../assets/sx-1.png" alt="Activity photos" loading="lazy" />
+          <img class="img-real" src="../assets/sx-2.png" alt="Research/field visits" loading="lazy" />
         </div>
       </div>
     `,
@@ -374,8 +374,8 @@ const DETAIL_MAP = {
       </div>
       <div class="modal-section">
         <div class="img-grid img-grid-2">
-          <img class="img-real" src="./assets/flag-1.jpg" alt="Event photos" loading="lazy" />
-          <img class="img-real" src="./assets/flag-2.jpg" alt="Article screenshots" loading="lazy" />
+          <img class="img-real" src="../assets/flag-1.jpg" alt="Event photos" loading="lazy" />
+          <img class="img-real" src="../assets/flag-2.jpg" alt="Article screenshots" loading="lazy" />
         </div>
       </div>
     `,
@@ -408,8 +408,8 @@ const DETAIL_MAP = {
       </div>
       <div class="modal-section">
         <div class="img-grid img-grid-2">
-          <img class="img-real" src="./assets/beijing-1.jpg" alt="Activity photos" loading="lazy" />
-          <img class="img-real" src="./assets/beijing-2.jpg" alt="Site records" loading="lazy" />
+          <img class="img-real" src="../assets/beijing-1.jpg" alt="Activity photos" loading="lazy" />
+          <img class="img-real" src="../assets/beijing-2.jpg" alt="Site records" loading="lazy" />
         </div>
       </div>
     `,
@@ -442,8 +442,8 @@ const DETAIL_MAP = {
       </div>
       <div class="modal-section">
         <div class="img-grid img-grid-2">
-          <img class="img-real" src="./assets/tuangzhi-1.jpg" alt="Promotional materials" loading="lazy" />
-          <img class="img-real" src="./assets/tuangzhi-2.jpg" alt="Event photos" loading="lazy" />
+          <img class="img-real" src="../assets/tuangzhi-1.jpg" alt="Promotional materials" loading="lazy" />
+          <img class="img-real" src="../assets/tuangzhi-2.jpg" alt="Event photos" loading="lazy" />
         </div>
       </div>
     `,
